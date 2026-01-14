@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: read
 
 jobs:
   build:
@@ -16,7 +17,8 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: naborajs 
+          github_user_name: naborajs
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
@@ -28,4 +30,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
