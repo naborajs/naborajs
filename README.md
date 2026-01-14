@@ -51,7 +51,7 @@ AI Builder • Automation Developer • ChatGPT Expert • Gamer 🎮
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ns-gamming/naborajs/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/naborajs/naborajs/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
