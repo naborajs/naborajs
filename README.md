@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naboraj (Nishant) Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Naboraj Sarkar</h1>
 
 <h3 align="center">
 AI Builder • Automation Developer • ChatGPT Expert • Gamer 🎮
@@ -9,7 +9,7 @@ AI Builder • Automation Developer • ChatGPT Expert • Gamer 🎮
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ns-gamming&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=naborajs&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@ AI Builder • Automation Developer • ChatGPT Expert • Gamer 🎮
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ns-gamming/ns-gamming/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ns-gamming/naborajs/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -59,11 +59,11 @@ AI Builder • Automation Developer • ChatGPT Expert • Gamer 🎮
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ns-gamming&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ns-gamming"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naborajs"/>
 </p>
 
 ---
