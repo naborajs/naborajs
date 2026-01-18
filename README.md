@@ -88,12 +88,26 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=default"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" 
+    alt="Naboraj Sarkar GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naborajs"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=naborajs&theme=transparent" 
+    alt="Naboraj Sarkar GitHub Streak Stats" 
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=github-compact" 
+    alt="Naboraj Sarkar Activity Graph" 
+  />
+</p>
+
 
 ---
 
