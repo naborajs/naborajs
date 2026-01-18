@@ -114,10 +114,29 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/naborajs"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
-<a href="https://twitter.com/NSGAMMING699"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
-<a href="https://www.youtube.com/@Nishant_sarkar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>
-<a href="https://discord.gg/WP3YkTkcJE"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40"/></a>
+  <a href="https://instagram.com/naborajs" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/NSGAMMING699" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="42" alt="Twitter / X"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Nishant_sarkar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="42" alt="YouTube"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/WP3YkTkcJE" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="42" alt="Discord"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/naboraj-sarkar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/918900653250?text=Hi%20Naboraj%2C%20I%20found%20you%20via%20GitHub." target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="42" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
