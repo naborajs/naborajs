@@ -13,26 +13,54 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 </p>
 
 ---
-
 ## 🧠 About Me
 
-- 🤖 I build **AI-powered bots, automation systems, and intelligent workflows**
-- ⚙️ Focused on **AI agents, prompt engineering, n8n automation, and system design**
-- 💻 Programmer working with **Python, JavaScript, APIs, backend systems**
-- 🔐 Learning **cybersecurity fundamentals** and security-first development
-- 🎥 YouTube creator — learned **editing, planning, consistency & audience psychology**
-- 🌱 Currently exploring **LLMs, AI automation, and applied machine learning**
-- 📫 Contact: **nishant.ns.business@gmail.com**
+<p>
+  I’m <strong>Naboraj Sarkar</strong> — a student developer and builder focused on
+  <strong>AI, automation, and real-world systems</strong>.
+  I learn by building, experimenting, and improving things step by step.
+</p>
+
+<ul>
+  <li>🤖 Building <strong>AI-powered bots, automation systems, and intelligent workflows</strong></li>
+  <li>⚙️ Working with <strong>AI agents, advanced prompt engineering, n8n automation, and system design</strong></li>
+  <li>💻 Programmer using <strong>Python, JavaScript, APIs, backend & web systems</strong></li>
+  <li>🔐 Learning <strong>cybersecurity fundamentals</strong> with a security-first mindset</li>
+  <li>🎥 YouTube creator — learned <strong>video editing, planning, consistency & audience psychology</strong></li>
+  <li>🌱 Actively exploring <strong>LLMs, AI automation, and applied machine learning</strong></li>
+</ul>
+
+<p>
+  📌 For a complete and detailed profile, journey, projects, and philosophy:<br>
+  👉 <strong><a href="https://github.com/naborajs/who-is-naboraj-sarkar">
+  Who is Naboraj Sarkar</a></strong>
+</p>
+
+<p>
+  📫 Contact: <strong>nishant.ns.business@gmail.com</strong>
+</p>
 
 ---
 
 ## 🎯 What I’m Working Towards
 
-- 🧠 Deep understanding of **Artificial Intelligence & Automation**
-- ⚙️ Building **real-world AI systems**, not just demos
-- 🚀 Growing **NSCodex** — a free tech learning & experimentation initiative
-- 🌍 Creating tools that save time and solve real problems
-- 📚 Compounding skills through long-term learning
+<p>
+  My focus is long-term growth, not shortcuts. I’m building skills that compound over time.
+</p>
+
+<ul>
+  <li>🧠 Developing a deep understanding of <strong>Artificial Intelligence & Automation</strong></li>
+  <li>⚙️ Creating <strong>real-world AI systems</strong>, not just demos or experiments</li>
+  <li>🚀 Growing <strong>NSCodex</strong> — a free tech learning & experimentation initiative</li>
+  <li>🌍 Building tools that <strong>save time and solve real problems</strong></li>
+  <li>📚 Learning in public and compounding skills through consistency</li>
+</ul>
+
+<p>
+  <em>
+    “I’m not trying to look advanced — I’m trying to actually become capable.”
+  </em>
+</p>
 
 ---
 
