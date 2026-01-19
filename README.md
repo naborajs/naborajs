@@ -12,7 +12,13 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
   <img src="https://komarev.com/ghpvc/?username=naborajs&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Line" width="100%" />
+</div>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learning.%20Building.%20Becoming......;The%Future" alt="Typing introduction" />
+  
 ## 🧠 About Me
 
 <p>
@@ -88,24 +94,11 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" 
-    alt="Naboraj Sarkar GitHub Stats" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="naborajs's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=naborajs&theme=nightowl&hide_border=true&cache_seconds=86400" alt="" width="49%" />
 </p>
-
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=naborajs&theme=transparent" 
-    alt="Naboraj Sarkar GitHub Streak Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=github-compact" 
-    alt="Naboraj Sarkar Activity Graph" 
-  />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=nightowl&radius=10" alt="naborajs's Activity Graph" />
 </p>
 
 
@@ -117,23 +110,28 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
   <a href="https://instagram.com/naborajs" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://twitter.com/NSGAMMING699" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="42" alt="Twitter / X"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.youtube.com/@Nishant_sarkar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="42" alt="YouTube"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://discord.gg/WP3YkTkcJE" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="42" alt="Discord"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/naboraj-sarkar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="42" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="42" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://wa.me/918900653250?text=Hi%20Naboraj%2C%20I%20found%20you%20via%20GitHub." target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="42" alt="WhatsApp"/>
   </a>
@@ -144,3 +142,9 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 <p align="center">
 ✨ “Build. Learn. Automate. Improve.” ✨
 </p>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
