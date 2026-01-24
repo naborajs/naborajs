@@ -37,9 +37,9 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 </ul>
 
 <p>
-  📌 For a complete and detailed profile, journey, projects, and philosophy:<br>
+  📌 To know more about ME check the repo bellow:<br>
   👉 <strong><a href="https://github.com/naborajs/who-is-naboraj-sarkar">
-  Who is Naboraj Sarkar</a></strong>
+  Know more about Naborajs</a></strong>
 </p>
 
 <p>
