@@ -94,11 +94,15 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="naborajs's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="loading..." width="49%" />
   <img src="https://streak-stats.demolab.com/?user=naborajs&theme=nightowl&hide_border=true&cache_seconds=86400" alt="" width="49%" />
 </p>
+</p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=nightowl&radius=10" alt="naborajs's Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naborajs&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Loading..." />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=nightowl&radius=10" alt="loading..." />
 </p>
 
 
