@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naboraj Sarkar</h1>
 
 <h3 align="center">
-Student Developer • AI & Automation Builder • Content Creator 🎮
+Student Developer • AI & Automation Builder • Content Creator 🤖
 </h3>
 
 <p align="center">
@@ -17,7 +17,9 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 </div>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learning.%20Building.%20Becoming......;The%Future" alt="Typing introduction" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learning.%20Building.%20Becoming...;The%20Future%20is%20Built%2C%20Not%20Waited%20For." alt="Typing introduction" />
+</p>
   
 ## 🧠 About Me
 
@@ -37,7 +39,7 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 </ul>
 
 <p>
-  📌 To know more about ME check the repo bellow:<br>
+  📌 To know more about ME check the repo below:<br>
   👉 <strong><a href="https://github.com/naborajs/who-is-naboraj-sarkar">
   Know more about Naborajs</a></strong>
 </p>
@@ -48,25 +50,35 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 
 ---
 
-## 🎯 What I’m Working Towards
+## 🎯 Currently Building & Learning
 
-<p>
-  My focus is long-term growth, not shortcuts. I’m building skills that compound over time.
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-<ul>
-  <li>🧠 Developing a deep understanding of <strong>Artificial Intelligence & Automation</strong></li>
-  <li>⚙️ Creating <strong>real-world AI systems</strong>, not just demos or experiments</li>
-  <li>🚀 Growing <strong>NSCodex</strong> — a free tech learning & experimentation initiative</li>
-  <li>🌍 Building tools that <strong>save time and solve real problems</strong></li>
-  <li>📚 Learning in public and compounding skills through consistency</li>
-</ul>
+### 🔨 Currently Building
+- 🌐 **NSCodex** — free AI & automation learning platform for Indian students
+- 🤖 **AI automation workflows** using n8n and LLMs
+- 🎂 **birthday-bloom v2** — more animations & customization
+- 🔐 **Security tools** for Termux & Linux environments
 
-<p>
-  <em>
-    “I’m not trying to look advanced — I’m trying to actually become capable.”
-  </em>
-</p>
+    </td>
+    <td valign="top" width="50%">
+
+### 📚 Currently Learning
+- 🧠 How AI systems **actually think** — not just how to prompt them
+- 🔐 How attackers think — **security-first mindset** for everything I build
+- ⚙️ How to build **systems that run themselves** — automation at scale
+- 🌐 How to take an idea **from zero to deployed** — full stack thinking
+- 📊 How to make **AI decisions explainable** — not just accurate
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+> 💡 *"I'm not trying to look advanced — I'm trying to actually become capable."*
 
 ---
 
@@ -78,8 +90,17 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [birthday-bloom](https://github.com/naborajs/birthday-bloom) | Animated birthday website generator | TypeScript | 
+| [Termux-Tor-IP-Rotator](https://github.com/naborajs/Termux-Tor-IP-Rotator) | Tor IP changer with auto-rotation & stealth mode | Shell |
+| [social-ai-platform](https://github.com/naborajs/social-ai-platform) | A social media inside WhatsApp & Telegram | Python | (UNDER DEVELOPMENT)
 
 ---
 
@@ -96,7 +117,6 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="loading..." width="49%" />
   <img src="https://streak-stats.demolab.com/?user=naborajs&theme=nightowl&hide_border=true&cache_seconds=86400" alt="" width="49%" />
-</p>
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=naborajs&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Loading..." />
@@ -144,7 +164,7 @@ Student Developer • AI & Automation Builder • Content Creator 🎮
 ---
 
 <p align="center">
-✨ “Build. Learn. Automate. Improve.” ✨
+✨ "I'm not trying to look advanced — I'm trying to actually become capable." ✨
 </p>
 
 
