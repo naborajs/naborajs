@@ -59,7 +59,7 @@ Student Developer • AI & Automation Builder • Content Creator 🤖
 ### 🔨 Currently Building
 - 🌐 **NSCodex** — free AI & automation learning platform for Indian students
 - 🤖 **AI automation workflows** using n8n and LLMs
-- 🎂 **birthday-bloom v2** — more animations & customization
+- 🎂 **birthday-bloom v4** — more animations & customization
 - 🔐 **Security tools** for Termux & Linux environments
 
     </td>
