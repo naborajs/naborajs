@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naboraj Sarkar</h1>
 
 <h3 align="center">
-Student Developer • AI & Automation Builder • Content Creator 🤖
+Student • Developer • Automation Builder • Security Learner
 </h3>
 
 <p align="center">
-🚀 Building intelligent systems, automation, and learning in public from India 🇮🇳
+I build automation systems, AI-powered tools, Linux utilities, and experimental web projects while learning how modern systems actually work under the hood.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Student Developer • AI & Automation Builder • Content Creator 🤖
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learning.%20Building.%20Becoming...;The%20Future%20is%20Built%2C%20Not%20Waited%20For." alt="Typing introduction" />
 </p>
-  
+
 ## 🧠 About Me
 
 <p>
@@ -61,8 +61,8 @@ Student Developer • AI & Automation Builder • Content Creator 🤖
 - 🤖 **AI automation workflows** using n8n and LLMs
 - 🎂 **birthday-bloom v4** — more animations & customization
 - 🔐 **Security tools** for Termux & Linux environments
-
-    </td>
+<table>
+   <tr>
     <td valign="top" width="50%">
 
 ### 📚 Currently Learning
@@ -100,7 +100,7 @@ Student Developer • AI & Automation Builder • Content Creator 🤖
 |---|---|---|
 | [birthday-bloom](https://github.com/naborajs/birthday-bloom) | Animated birthday website generator | TypeScript | 
 | [Termux-Tor-IP-Rotator](https://github.com/naborajs/Termux-Tor-IP-Rotator) | Tor IP changer with auto-rotation & stealth mode | Shell |
-| [social-ai-platform](https://github.com/naborajs/social-ai-platform) | A social media inside WhatsApp & Telegram | Python | (UNDER DEVELOPMENT)
+| [social-ai-platform](https://github.com/naborajs/social-ai-platform) | Social platform built around WhatsApp & Telegram ecosystems *(Under Development)* | Python |
 
 ---
 
@@ -115,14 +115,14 @@ Student Developer • AI & Automation Builder • Content Creator 🤖
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="loading..." width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=naborajs&theme=nightowl&hide_border=true&cache_seconds=86400" alt="" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naborajs&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Loading..." />
+  <img src="https://github-profile-trophy.vercel.app/?username=naborajs&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=nightowl&radius=10" alt="loading..." />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=nightowl&radius=10" alt="" />
 </p>
 
 
