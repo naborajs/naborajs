@@ -31,7 +31,7 @@ I build automation systems, AI-powered tools, Linux utilities, and experimental 
 
 <ul>
   <li>🤖 Building <strong>AI-powered bots, automation systems, and intelligent workflows</strong></li>
-  <li>⚙️ Working with <strong>AI agents, inference-time prompting techniques, n8n automation, and scalable system design</strong></li>
+  <li>⚙️ Working with <strong>AI agents, inference-time prompting techniques, automation, and scalable system design</strong></li>
   <li>💻 Programmer using <strong>Python, JavaScript, APIs, backend & web systems</strong></li>
   <li>🔐 Learning <strong>cybersecurity fundamentals</strong> with a security-first mindset</li>
   <li>🎥 YouTube creator — learned <strong>video editing, planning, consistency & audience psychology</strong></li>
