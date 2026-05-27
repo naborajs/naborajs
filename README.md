@@ -31,7 +31,7 @@ I build automation systems, AI-powered tools, Linux utilities, and experimental 
 
 <ul>
   <li>🤖 Building <strong>AI-powered bots, automation systems, and intelligent workflows</strong></li>
-  <li>⚙️ Working with <strong>AI agents, advanced prompt engineering, n8n automation, and system design</strong></li>
+  <li>⚙️ Working with <strong>AI agents, inference-time prompting techniques, n8n automation, and scalable system design</strong></li>
   <li>💻 Programmer using <strong>Python, JavaScript, APIs, backend & web systems</strong></li>
   <li>🔐 Learning <strong>cybersecurity fundamentals</strong> with a security-first mindset</li>
   <li>🎥 YouTube creator — learned <strong>video editing, planning, consistency & audience psychology</strong></li>
@@ -49,30 +49,32 @@ I build automation systems, AI-powered tools, Linux utilities, and experimental 
 </p>
 
 ---
-
 ## 🎯 Currently Building & Learning
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+
+<td valign="top" width="50%">
 
 ### 🔨 Currently Building
 - 🌐 **NSCodex** — free AI & automation learning platform for Indian students
 - 🤖 **AI automation workflows** using n8n and LLMs
 - 🎂 **birthday-bloom v4** — more animations & customization
 - 🔐 **Security tools** for Termux & Linux environments
-<table>
-   <tr>
-    <td valign="top" width="50%">
+
+</td>
+
+<td valign="top" width="50%">
 
 ### 📚 Currently Learning
-- 🧠 How AI systems **actually think** — not just how to prompt them
+- 🧠 How modern AI systems **reason, respond, and make decisions**
 - 🔐 How attackers think — **security-first mindset** for everything I build
 - ⚙️ How to build **systems that run themselves** — automation at scale
 - 🌐 How to take an idea **from zero to deployed** — full stack thinking
 - 📊 How to make **AI decisions explainable** — not just accurate
 
-    </td>
+</td>
+
   </tr>
 </table>
 
@@ -81,7 +83,6 @@ I build automation systems, AI-powered tools, Linux utilities, and experimental 
 > 💡 *"I'm not trying to look advanced — I'm trying to actually become capable."*
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
