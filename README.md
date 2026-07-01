@@ -114,7 +114,7 @@ I build automation systems, AI-powered tools, Linux utilities, and experimental 
 ## 🧊 3D Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/naborajs/naborajs/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 ---

@@ -1,10 +1,8 @@
-name: Generate Premium 3D contribution graph
+name: 3D Contrib
 
 on:
-  # Run automatically every day at 18:00 UTC
   schedule:
-    - cron: "0 18 * * *"
-  # Run on every push to main or master branch (excluding generated outputs to prevent loop)
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -12,43 +10,31 @@ on:
     paths-ignore:
       - 'profile-3d-contrib/**'
       - 'README.md'
-  # Allow manual trigger from the Actions tab
   workflow_dispatch:
 
 permissions:
-  # Required to commit and push the generated SVG files back to the repository
   contents: write
 
 jobs:
   build:
-    name: Generate and Enhance 3D Graphs
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
+    name: generate-github-profile-3d-contrib
     steps:
-      # Step 1: Checkout the repository so we can write to it and access our scripts
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Run the 3D contribution graph generator action
       - name: Generate 3D Contribution Graphs
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      # Step 3: Run our custom Node.js post-processing script to apply the premium look
       - name: Post-process & Beautify SVGs
         run: node .github/scripts/post-process.js
 
-      # Step 4: Commit and push the generated and enhanced SVGs back to the repository
-      - name: Commit and Push Changes
+      - name: Commit & Push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "naborajs"
+          git config user.email "nishant.ns.business@gmail.com"
           git add -A .
-          if git commit -m "chore: update premium 3D contribution graphs [skip ci]"; then
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          git diff --staged --quiet || (git commit -m "Update 3D contrib [skip ci]" && git push)
