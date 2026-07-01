@@ -15,9 +15,10 @@ files.forEach(file => {
   const filePath = path.join(dirPath, file);
   let svg = fs.readFileSync(filePath, 'utf8');
 
-  // Skip if already processed, UNLESS it contains the broken, unescaped google font ampersand URL
+  const force = process.argv.includes('--force');
+  // Skip if already processed, UNLESS it contains the broken, unescaped google font ampersand URL, or --force is specified
   const hasUnescapedAmp = svg.includes('&display=swap');
-  if ((svg.includes('id="card-clip"') || svg.includes('premium-bg-gradient')) && !hasUnescapedAmp) {
+  if (!force && (svg.includes('id="card-clip"') || svg.includes('premium-bg-gradient')) && !hasUnescapedAmp) {
     console.log(`File ${file} has already been processed and enhanced. Skipping.`);
     return;
   }
@@ -172,25 +173,25 @@ files.forEach(file => {
     // Replace font-family inside rules cleanly
     css = css.replace(/font-family:\s*[^;\}]+;/g, "font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;");
 
+    // Override background fill and stroke to use gradient
+    css = css.replace(/\.fill-bg\s*\{[^}]*\}/g, `.fill-bg { fill: url(#premium-bg-gradient); }`);
+    css = css.replace(/\.stroke-bg\s*\{[^}]*\}/g, `.stroke-bg { stroke: transparent; }`);
+
+    // Glowing grids
+    css = css.replace(/\.stroke-weak\s*\{[^}]*\}/g, `.stroke-weak { stroke: ${isDark ? '#fde047' : '#cbd5e1'}; stroke-opacity: 0.65; }`);
+
+    // Override radar graph visual appearance
+    css = css.replace(/\.radar\s*\{[^}]*\}/g, `
+      .radar {
+        stroke: ${isDark ? '#c084fc' : '#3b82f6'} !important;
+        stroke-width: 2.5px !important;
+        fill: url(#radar-gradient) !important;
+        filter: drop-shadow(0 0 6px ${isDark ? 'rgba(192, 132, 252, 0.3)' : 'rgba(59, 130, 246, 0.2)'});
+      }
+    `);
+
     // Only apply class overrides if not already applied
-    if (!css.includes('stroke-linejoin: round')) {
-      // Override background fill and stroke to use gradient
-      css = css.replace(/\.fill-bg\s*\{\s*fill:[^;\}]+;\s*\}/g, `.fill-bg { fill: url(#premium-bg-gradient); }`);
-      css = css.replace(/\.stroke-bg\s*\{\s*stroke:[^;\}]+;\s*\}/g, `.stroke-bg { stroke: transparent; }`);
-
-      // Softer grids
-      css = css.replace(/\.stroke-weak\s*\{\s*stroke:[^;\}]+;\s*\}/g, `.stroke-weak { stroke: ${isDark ? '#27272a' : '#cbd5e1'}; stroke-opacity: 0.4; }`);
-
-      // Override radar graph visual appearance
-      css = css.replace(/\.radar\s*\{\s*[^}]*\}/g, `
-        .radar {
-          stroke: ${isDark ? '#c084fc' : '#3b82f6'} !important;
-          stroke-width: 2.5px !important;
-          fill: url(#radar-gradient) !important;
-          filter: drop-shadow(0 0 6px ${isDark ? 'rgba(192, 132, 252, 0.3)' : 'rgba(59, 130, 246, 0.2)'});
-        }
-      `);
-
+    if (!css.includes('stroke-linejoin: round') || force) {
       // Smooth path edges and shadows
       css += `
         path {

@@ -6,14 +6,16 @@
 .stroke-bg { stroke: transparent; }
 .fill-strong { fill: #111133; }
 .fill-weak { fill: gray; }
-.stroke-weak { stroke: #cbd5e1; stroke-opacity: 0.4; }
+.stroke-weak { stroke: #cbd5e1; stroke-opacity: 0.65; }
 
-        .radar {
-          stroke: #3b82f6 !important;
-          stroke-width: 2.5px !important;
-          fill: url(#radar-gradient) !important;
-          filter: drop-shadow(0 0 6px rgba(59, 130, 246, 0.2));
-        }
+        
+      .radar {
+        stroke: #3b82f6 !important;
+        stroke-width: 2.5px !important;
+        fill: url(#radar-gradient) !important;
+        filter: drop-shadow(0 0 6px rgba(59, 130, 246, 0.2));
+      }
+    
       
 .cont-top-p0-0 { fill: rgb(239, 239, 239); }
 .cont-left-p0-0 { fill: rgb(200, 200, 200); }
@@ -315,6 +317,22 @@
 .cont-top-p19-4 { fill: rgb(29, 106, 35); }
 .cont-left-p19-4 { fill: rgb(24, 89, 29); }
 .cont-right-p19-4 { fill: rgb(20, 74, 25); }
+        path {
+          stroke-linejoin: round;
+          stroke-linecap: round;
+          transition: filter 0.3s ease, transform 0.3s ease;
+        }
+        path[class*="cont-"]:hover, path[class*="rb-"]:hover {
+          filter: brightness(1.2) drop-shadow(0 0 8px rgba(59, 130, 246, 0.3)) !important;
+        }
+        /* Modern donut gap styling for pie chart slices */
+        path:not([class*="cont-"]):not([class*="rb-"]):not(.radar) {
+          stroke: url(#premium-bg-gradient) !important;
+          stroke-width: 4px !important;
+          stroke-linejoin: round !important;
+          stroke-linecap: round !important;
+        }
+      
         path {
           stroke-linejoin: round;
           stroke-linecap: round;

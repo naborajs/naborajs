@@ -6,14 +6,16 @@
 .stroke-bg { stroke: transparent; }
 .fill-strong { fill: rgb(255,200,55); }
 .fill-weak { fill: #aaaaaa; }
-.stroke-weak { stroke: #27272a; stroke-opacity: 0.4; }
+.stroke-weak { stroke: #fde047; stroke-opacity: 0.65; }
 
-        .radar {
-          stroke: #c084fc !important;
-          stroke-width: 2.5px !important;
-          fill: url(#radar-gradient) !important;
-          filter: drop-shadow(0 0 6px rgba(192, 132, 252, 0.3));
-        }
+        
+      .radar {
+        stroke: #c084fc !important;
+        stroke-width: 2.5px !important;
+        fill: url(#radar-gradient) !important;
+        filter: drop-shadow(0 0 6px rgba(192, 132, 252, 0.3));
+      }
+    
       
 .rb-l0-top{animation:rb-l0-top 10s linear infinite;}
 @keyframes rb-l0-top{0.00%{fill:rgb(77, 25, 25)}16.67%{fill:rgb(77, 77, 25)}33.33%{fill:rgb(25, 77, 25)}50.00%{fill:rgb(25, 77, 77)}66.67%{fill:rgb(25, 25, 77)}83.33%{fill:rgb(77, 25, 77)}100.00%{fill:rgb(77, 25, 25)}}
@@ -45,6 +47,22 @@
 @keyframes rb-l4-left{0.00%{fill:rgb(160, 53, 53)}16.67%{fill:rgb(160, 160, 53)}33.33%{fill:rgb(53, 160, 53)}50.00%{fill:rgb(53, 160, 160)}66.67%{fill:rgb(53, 53, 160)}83.33%{fill:rgb(160, 53, 160)}100.00%{fill:rgb(160, 53, 53)}}
 .rb-l4-right{animation:rb-l4-right 10s linear infinite;}
 @keyframes rb-l4-right{0.00%{fill:rgb(134, 45, 45)}16.67%{fill:rgb(134, 134, 45)}33.33%{fill:rgb(45, 134, 45)}50.00%{fill:rgb(45, 134, 134)}66.67%{fill:rgb(45, 45, 134)}83.33%{fill:rgb(134, 45, 134)}100.00%{fill:rgb(134, 45, 45)}}
+        path {
+          stroke-linejoin: round;
+          stroke-linecap: round;
+          transition: filter 0.3s ease, transform 0.3s ease;
+        }
+        path[class*="cont-"]:hover, path[class*="rb-"]:hover {
+          filter: brightness(1.2) drop-shadow(0 0 8px rgba(139, 92, 246, 0.5)) !important;
+        }
+        /* Modern donut gap styling for pie chart slices */
+        path:not([class*="cont-"]):not([class*="rb-"]):not(.radar) {
+          stroke: url(#premium-bg-gradient) !important;
+          stroke-width: 4px !important;
+          stroke-linejoin: round !important;
+          stroke-linecap: round !important;
+        }
+      
         path {
           stroke-linejoin: round;
           stroke-linecap: round;
