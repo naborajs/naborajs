@@ -29,59 +29,103 @@ files.forEach(file => {
     svg = svg.replace('<svg', '<svg shape-rendering="geometricPrecision" text-rendering="geometricPrecision"');
   }
 
-  // 2. Add custom filters & gradients to the <defs> section
+  // 2. Add custom filters, clip paths, & gradients to the <defs> section
   const defsStart = svg.indexOf('<defs>');
   let defsContent = '';
 
   if (isDark) {
     defsContent = `
+    <!-- Card Clip Path for Rounded Corners -->
+    <clipPath id="card-clip">
+      <rect x="0" y="0" width="${width}" height="${height}" rx="24" ry="24" />
+    </clipPath>
+    
     <!-- Premium Dark Background Gradient -->
-    <radialGradient id="premium-bg-gradient" cx="50%" cy="50%" r="85%">
-      <stop offset="0%" stop-color="#141226" />
-      <stop offset="45%" stop-color="#0c0a1a" />
-      <stop offset="100%" stop-color="#04020a" />
+    <radialGradient id="premium-bg-gradient" cx="50%" cy="45%" r="80%">
+      <stop offset="0%" stop-color="#14112c" />
+      <stop offset="50%" stop-color="#0b0818" />
+      <stop offset="100%" stop-color="#030207" />
     </radialGradient>
     
     <!-- Soft Vignette Overlay for Dark Mode -->
-    <radialGradient id="premium-vignette" cx="50%" cy="50%" r="70%">
-      <stop offset="55%" stop-color="#04020a" stop-opacity="0" />
-      <stop offset="100%" stop-color="#04020a" stop-opacity="0.95" />
+    <radialGradient id="premium-vignette" cx="50%" cy="45%" r="70%">
+      <stop offset="55%" stop-color="#030207" stop-opacity="0" />
+      <stop offset="100%" stop-color="#030207" stop-opacity="0.9" />
     </radialGradient>
+    
+    <!-- Translucent Card Border Gradient -->
+    <linearGradient id="card-border-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.35" />
+      <stop offset="25%" stop-color="#c084fc" stop-opacity="0.1" />
+      <stop offset="75%" stop-color="#3b82f6" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.25" />
+    </linearGradient>
+    
+    <!-- Horizontal Separator Line Gradient -->
+    <linearGradient id="line-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0" />
+      <stop offset="20%" stop-color="#818cf8" stop-opacity="0.15" />
+      <stop offset="50%" stop-color="#c084fc" stop-opacity="0.3" />
+      <stop offset="80%" stop-color="#818cf8" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
+    </linearGradient>
     
     <!-- Modern Soft Drop Shadow -->
     <filter id="premium-shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#000000" flood-opacity="0.75" />
+      <feDropShadow dx="0" dy="25" stdDeviation="22" flood-color="#000000" flood-opacity="0.75" />
     </filter>
     
-    <!-- Subtle Glow for Neon Elements -->
-    <filter id="premium-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
+    <!-- Radar Graph Area Gradient -->
+    <radialGradient id="radar-gradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.5" />
+    </radialGradient>
     `;
   } else {
     // Light mode styling
     defsContent = `
+    <!-- Card Clip Path for Rounded Corners -->
+    <clipPath id="card-clip">
+      <rect x="0" y="0" width="${width}" height="${height}" rx="24" ry="24" />
+    </clipPath>
+    
     <!-- Premium Light Background Gradient -->
-    <radialGradient id="premium-bg-gradient" cx="50%" cy="50%" r="85%">
+    <radialGradient id="premium-bg-gradient" cx="50%" cy="45%" r="80%">
       <stop offset="0%" stop-color="#ffffff" />
       <stop offset="60%" stop-color="#f8fafc" />
       <stop offset="100%" stop-color="#f1f5f9" />
     </radialGradient>
     
     <!-- Soft Vignette Overlay for Light Mode -->
-    <radialGradient id="premium-vignette" cx="50%" cy="50%" r="70%">
+    <radialGradient id="premium-vignette" cx="50%" cy="45%" r="70%">
       <stop offset="55%" stop-color="#f1f5f9" stop-opacity="0" />
-      <stop offset="100%" stop-color="#f1f5f9" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#f1f5f9" stop-opacity="0.9" />
     </radialGradient>
+    
+    <!-- Translucent Card Border Gradient -->
+    <linearGradient id="card-border-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#475569" stop-opacity="0.15" />
+      <stop offset="50%" stop-color="#64748b" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#475569" stop-opacity="0.1" />
+    </linearGradient>
+    
+    <!-- Horizontal Separator Line Gradient -->
+    <linearGradient id="line-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#94a3b8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#cbd5e1" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#94a3b8" stop-opacity="0" />
+    </linearGradient>
     
     <!-- Soft Clean Shadow -->
     <filter id="premium-shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#0f172a" flood-opacity="0.12" />
+      <feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#0f172a" flood-opacity="0.15" />
     </filter>
+    
+    <!-- Radar Graph Area Gradient -->
+    <radialGradient id="radar-gradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.4" />
+    </radialGradient>
     `;
   }
 
@@ -98,7 +142,7 @@ files.forEach(file => {
     }
   }
 
-  // 3. Inject typography, round corner paths, and styles into the <style> block
+  // 3. Inject typography, round corner paths, donut gaps, and custom styles into the <style> block
   const styleStart = svg.indexOf('<style>');
   if (styleStart !== -1) {
     const styleEnd = svg.indexOf('</style>');
@@ -116,42 +160,70 @@ files.forEach(file => {
     css = css.replace(/\.stroke-bg\s*\{\s*stroke:[^;\}]+;\s*\}/g, `.stroke-bg { stroke: transparent; }`);
 
     // Softer grids
-    css = css.replace(/\.stroke-weak\s*\{\s*stroke:[^;\}]+;\s*\}/g, `.stroke-weak { stroke: ${isDark ? '#27272a' : '#e2e8f0'}; stroke-opacity: 0.4; }`);
+    css = css.replace(/\.stroke-weak\s*\{\s*stroke:[^;\}]+;\s*\}/g, `.stroke-weak { stroke: ${isDark ? '#27272a' : '#cbd5e1'}; stroke-opacity: 0.4; }`);
+
+    // Override radar graph visual appearance
+    css = css.replace(/\.radar\s*\{\s*[^}]*\}/g, `
+      .radar {
+        stroke: ${isDark ? '#c084fc' : '#3b82f6'} !important;
+        stroke-width: 2.5px !important;
+        fill: url(#radar-gradient) !important;
+        filter: drop-shadow(0 0 6px ${isDark ? 'rgba(192, 132, 252, 0.3)' : 'rgba(59, 130, 246, 0.2)'});
+      }
+    `);
 
     // Smooth path edges and shadows
     css += `
       path {
         stroke-linejoin: round;
         stroke-linecap: round;
-        transition: filter 0.3s ease;
+        transition: filter 0.3s ease, transform 0.3s ease;
       }
-      path:hover {
-        filter: brightness(1.2);
+      path[class*="cont-"]:hover, path[class*="rb-"]:hover {
+        filter: brightness(1.2) drop-shadow(0 0 8px ${isDark ? 'rgba(139, 92, 246, 0.5)' : 'rgba(59, 130, 246, 0.3)'}) !important;
+      }
+      /* Modern donut gap styling for pie chart slices */
+      path:not([class*="cont-"]):not([class*="rb-"]):not(.radar) {
+        stroke: url(#premium-bg-gradient) !important;
+        stroke-width: 4px !important;
+        stroke-linejoin: round !important;
+        stroke-linecap: round !important;
       }
     `;
 
     svg = svg.slice(0, styleStart + 7) + css + svg.slice(styleEnd);
   }
 
-  // 4. Wrap components in shadows group (excluding background rect)
-  // Look for the background rect: <rect x="0" y="0" width="..." height="..." class="fill-bg"/>
+  // 4. Wrap elements in card rounded corners clip-path and apply drop-shadow to content
   const bgRectRegex = /<rect[^>]+class="fill-bg"[^>]*>/;
   const bgMatch = svg.match(bgRectRegex);
-  if (bgMatch) {
-    const bgEndIndex = bgMatch.index + bgMatch[0].length;
-    const svgEndIndex = svg.lastIndexOf('</svg>');
-
-    if (svgEndIndex !== -1) {
-      const contentToWrap = svg.slice(bgEndIndex, svgEndIndex);
-      const wrappedContent = `
+  const svgEndIndex = svg.lastIndexOf('</svg>');
+  
+  if (bgMatch && svgEndIndex !== -1) {
+    const bgIndex = bgMatch.index;
+    const bgEndIndex = bgIndex + bgMatch[0].length;
+    const bgRectStr = bgMatch[0];
+    const restOfContent = svg.slice(bgEndIndex, svgEndIndex);
+    
+    const wrappedContent = `
+      <g clip-path="url(#card-clip)">
+        ${bgRectStr}
+        <!-- Shadow filter applied to contribution elements and charts -->
         <g filter="url(#premium-shadow)">
-          ${contentToWrap}
+          ${restOfContent}
         </g>
-        <!-- Fade-Style Outer Edges (Vignette) -->
+        <!-- Soft Vignette Overlay to blend outer edges -->
         <rect width="${width}" height="${height}" fill="url(#premium-vignette)" pointer-events="none" />
-      `;
-      svg = svg.slice(0, bgEndIndex) + wrappedContent + svg.slice(svgEndIndex);
-    }
+      </g>
+      
+      <!-- Elegant Divider Line above stats -->
+      <line x1="40" y1="778" x2="${width - 40}" y2="778" stroke="url(#line-gradient)" stroke-width="1.5" />
+      
+      <!-- High-End Dashboard Card Translucent Border Frame -->
+      <rect x="1.5" y="1.5" width="${width - 3}" height="${height - 3}" rx="22.5" ry="22.5" fill="none" stroke="url(#card-border-gradient)" stroke-width="3" pointer-events="none" />
+    `;
+    
+    svg = svg.slice(0, bgIndex) + wrappedContent + svg.slice(svgEndIndex);
   }
 
   fs.writeFileSync(filePath, svg, 'utf8');
