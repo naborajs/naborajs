@@ -111,6 +111,12 @@ I build automation systems, AI-powered tools, Linux utilities, and experimental 
   <img src="https://raw.githubusercontent.com/naborajs/naborajs/output/github-contribution-grid-snake.svg" />
 </p>
 
+## 🧊 3D Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
