@@ -105,10 +105,18 @@ I build automation systems, AI-powered tools, Linux utilities, and experimental 
 
 ---
 
-## 🐍 Contribution Activity
+<!-- ## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/naborajs/naborajs/output/github-contribution-grid-snake.svg" />
+</p>
+-->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=naborajs&theme=nightowl&hide_border=true&cache_seconds=86400" alt="" width="49%" />
 </p>
 
 ## 🧊 3D Contributions
@@ -117,21 +125,14 @@ I build automation systems, AI-powered tools, Linux utilities, and experimental 
   <img src="https://raw.githubusercontent.com/naborajs/naborajs/main/profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D Contribution Graph" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=naborajs&theme=nightowl&hide_border=true&cache_seconds=86400" alt="" width="49%" />
-</p>
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=naborajs&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=nightowl&radius=10" alt="" />
 </p>
-
+-->
 
 ---
 
