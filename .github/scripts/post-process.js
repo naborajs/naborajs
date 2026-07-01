@@ -224,8 +224,18 @@ files.forEach(file => {
     if (bgMatch && svgEndIndex !== -1) {
       const bgIndex = bgMatch.index;
       const bgEndIndex = bgIndex + bgMatch[0].length;
-      const bgRectStr = bgMatch[0];
-      const restOfContent = svg.slice(bgEndIndex, svgEndIndex);
+      
+      let bgRectStr = bgMatch[0];
+      if (bgRectStr.endsWith('>')) {
+        if (!bgRectStr.endsWith('/>')) {
+          bgRectStr = bgRectStr.slice(0, -1) + ' />';
+        }
+      }
+      
+      let restOfContent = svg.slice(bgEndIndex, svgEndIndex);
+      if (restOfContent.startsWith('</rect>')) {
+        restOfContent = restOfContent.slice(7);
+      }
       
       const wrappedContent = `
         <g clip-path="url(#card-clip)">
