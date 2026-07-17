@@ -34,7 +34,7 @@ That's the whole philosophy behind everything below: **build first, understand d
 
 📌 Want the longer story? **[Read more about me →](https://github.com/naborajs/who-is-naboraj-sarkar)**
 
-📫 **nishant.ns.business@gmail.com**
+📫 **msg@naborajs.me**
 
 > 💡 *"I'm not trying to look advanced — I'm trying to actually become capable."*
 
@@ -54,8 +54,8 @@ I'm actively looking for people to build with — especially anyone with **real-
 
 ### 🔨 Building Right Now
 - 🌐 **NSCodex** — a free AI & automation learning platform for Indian students
-- 🎂 **birthday-bloom v4** — cinematic redesign with photorealistic visuals
-- 🔐 **Ghost Engine** — Tor-based IP rotation toolkit for Termux & Linux
+- 🎂 **birthday-bloom v5** — cinematic redesign with photorealistic visuals
+- 🔐 **Ghost Engine** — Tor-based IP rotation toolkit for Termux & Linux & Wsl
 - 🤝 **social-ai-platform** — social network built on WhatsApp & Telegram
 
 </td>
