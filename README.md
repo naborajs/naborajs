@@ -122,14 +122,24 @@ I build automation systems, AI-powered tools, Linux utilities, and experimental 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naborajs&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=naborajs&theme=nightowl&hide_border=true&cache_seconds=86400" alt="" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naborajs&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naborajs&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naborajs&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naborajs&theme=tokyonight" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=nightowl&radius=10" alt="" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naborajs&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naborajs&theme=tokyonight&utcOffset=5.5" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naborajs&theme=tokyonight&hide_border=true&v=2" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naborajs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=tokyonight&radius=10" alt="" />
 </p>
 
 
