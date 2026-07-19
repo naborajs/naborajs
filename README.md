@@ -108,15 +108,15 @@ I'm actively looking for people to build with — especially anyone with **real-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naborajs&theme=holi&animation=sequence&name=NABORAJ+SARKAR" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naborajs&theme=holi&animation=load&name=NABORAJ+SARKAR" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naborajs&theme=holi&animation=sequence" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naborajs&theme=holi&animation=sequence" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naborajs&theme=holi&animation=load" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naborajs&theme=holi&animation=load" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naborajs&theme=holi&animation=sequence" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naborajs&theme=holi&animation=sequence&utcOffset=0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naborajs&theme=holi&animation=load" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naborajs&theme=holi&animation=load&utcOffset=0" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=naborajs&theme=holi&hide_border=true&v=2" />
