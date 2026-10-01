@@ -94,7 +94,6 @@ I'm actively looking for people to build with — especially anyone with **real-
 |---|---|---|
 | [birthday-bloom](https://github.com/naborajs/birthday-bloom) | Open-source animated birthday website generator — cinematic visuals, zero coding required for users | TypeScript |
 | [Termux-Tor-IP-Rotator (Ghost Engine)](https://github.com/naborajs/Termux-Tor-IP-Rotator) | Cross-platform Tor IP rotation toolkit with auto-rotation & stealth mode | Shell |
-| [social-ai-platform](https://github.com/naborajs/social-ai-platform) | A social network that meets people where they already are — built around WhatsApp & Telegram instead of asking for one more app *(early development — looking for collaborators)* | Python |
 
 ---
 
