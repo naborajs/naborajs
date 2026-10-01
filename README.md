@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naboraj Sarkar</h1>
 
 <h3 align="center">
-Student Developer • AI Agent Builder • Automation Engineer • Open Source Contributor • Security Learner
+Student Developer • AI Agent Builder • LLM Explorer • Automation Engineer • Security Learner • Open Source Contributor
 </h3>
 
 <p align="center">
-I turn curiosity into code — building AI agents, automation systems, and security tools while learning how the internet actually works, one broken build at a time.
+I turn curiosity into code — building AI agents, automation systems, web platforms, and security tools while constantly exploring how software, AI, and the internet actually work.
 </p>
 
 <p align="center">
@@ -17,24 +17,35 @@ I turn curiosity into code — building AI agents, automation systems, and secur
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Learning.%20Building.%20Becoming...;The%20Future%20is%20Built%2C%20Not%20Waited%20For." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Learning.%20Building.%20Breaking.%20Fixing.;Exploring%20LLMs%2C%20Cybersecurity%20%26%20Automation;The%20Future%20is%20Built%2C%20Not%20Waited%20For." alt="Typing introduction" />
 </p>
 
 ## 🧠 About Me
 
-I didn't set out to become a developer — I set out to automate one boring task. A Python Telegram bot, built out of pure impatience, turned into full-stack apps, then AI agents, then open source. I'm still in school. I'm still figuring most of this out. I'd rather ship something broken and fix it in public than wait until I feel "ready."
+I didn't set out to become a developer — I started by trying to automate one boring task. A Python Telegram bot, built out of pure curiosity, eventually turned into full-stack applications, AI agents, automation systems, websites, and open-source projects.
 
-That's the whole philosophy behind everything below: **build first, understand deeply, repeat.**
+I'm still a student, still learning, and still breaking things constantly. That's part of the process.
 
-- 🤖 Building AI agents and automation systems that make decisions, not just follow scripts
-- 🔐 Learning to think like an attacker so I can build like a defender
-- 🌍 Contributing to and maintaining open-source projects used by people I've never met
-- 🎥 Growing an audience from scratch (twice) — learned the hard way that consistency beats talent
-- 🧩 Programming across Python, JavaScript/TypeScript, APIs, and full-stack web systems
+These days, I'm especially interested in **LLMs, AI agents, cybersecurity, automation, web development, and the infrastructure that connects everything together**. I like going beyond simply using a technology — I want to understand how it works underneath.
+
+That's the philosophy behind everything I build:
+
+**Build → Break → Understand → Improve → Repeat.**
+
+* 🤖 Building **AI agents and automation systems** that can reason, use tools, and interact with real-world data.
+* 🧠 Experimenting with **LLMs**, local models, Ollama, model serving, context windows, quantization, and AI coding agents.
+* 🔐 Learning **cybersecurity**, ethical hacking, networking, privacy, and how attackers think so I can build more defensively.
+* 🌐 Building and constantly maintaining **[naborajs.me](https://naborajs.me)** as my personal web ecosystem and digital identity.
+* 💻 Developing with **Python, JavaScript/TypeScript, APIs, databases, Next.js, automation tools, and full-stack systems**.
+* ⚙️ Exploring **AI infrastructure, APIs, cloud deployments, tunnels, self-hosted services, and scalable architectures**.
+* 🛠️ Building projects that combine **AI + automation + web technologies + real-world use cases**.
+* 🎮 Creating gaming content through **NS GAMMING** and learning editing and Content Creation. 
+* 🌱 Learning in public, documenting projects, rebuilding things, and constantly trying something new.
 
 📌 Want the longer story? **[Read more about me →](https://github.com/naborajs/who-is-naboraj-sarkar)**
 
-📫 **msg@naborajs.me**
+🌐 **[naborajs.me](https://naborajs.me)** 
+📫 **[msg@naborajs.me](mailto:msg@naborajs.me)**
 
 > 💡 *"I'm not trying to look advanced — I'm trying to actually become capable."*
 
@@ -42,7 +53,19 @@ That's the whole philosophy behind everything below: **build first, understand d
 
 ## 🤝 Open to Collaborate
 
-I'm actively looking for people to build with — especially anyone with **real-time / multiplayer engineering experience** for a social platform I'm working on. If you're into AI agents, automation, or open source, open an issue or just say hi.
+I'm always interested in meeting people who like **building things instead of just talking about them**.
+
+I'm especially interested in collaborating on:
+
+* 🤖 AI agents & LLM applications
+* 🧠 Local AI & AI infrastructure
+* 🔐 Cybersecurity & security tooling
+* ⚙️ Automation systems
+* 🌐 Full-stack & real-time applications
+* 🛠️ Open-source projects
+* 🎮 Gaming & creator-focused technology
+
+If you're building something interesting, feel free to open an issue, start a discussion, or just say hi.
 
 ---
 
@@ -52,24 +75,45 @@ I'm actively looking for people to build with — especially anyone with **real-
 <tr>
 <td valign="top" width="50%">
 
-### 🔨 Building Right Now
-- 🌐 **NSCodex** — a free AI & automation learning platform for Indian students
-- 🎂 **birthday-bloom v5** — cinematic redesign with photorealistic visuals
-- 🔐 **Ghost Engine** — Tor-based IP rotation toolkit for Termux & Linux & Wsl
-- 🤝 **social-ai-platform** — social network built on WhatsApp & Telegram
+### 🔨 Building & Maintaining
+
+* 🌐 **Naboraj Sarkar Web Ecosystem** — constantly developing and maintaining **naborajs.me**, including my projects, experiments, content, and digital presence
+* 🤖 **AI Agent Systems** — experimenting with AI agents that can use tools, APIs, databases, and business data
+* 🧠 **LLM Projects** — experimenting with local and hosted language models, model serving, AI coding agents, and custom AI workflows
+* ⚙️ **Automation Systems** — building tools that connect APIs, databases, messaging platforms, and AI
+* 🔐 **Security Projects** — experimenting with cybersecurity, networking, privacy, and security-focused tooling
+* 🎮 **NS GAMMING** — The art of content creation.
 
 </td>
 <td valign="top" width="50%">
 
 ### 📚 Learning Right Now
-- 🧠 How AI systems reason and make decisions — not just generate text
-- 🕵️ How attackers actually think, so I can build defensively by default
-- ⚙️ How to design systems that scale and run themselves
-- 📊 How to make AI decisions explainable, not just accurate
+
+* 🧠 **LLMs & Generative AI** — model architectures, inference, context management, quantization, and local deployment
+* 🤖 **AI Agents** — tool calling, memory, workflows, autonomous task execution, and agent architecture
+* 🔐 **Cybersecurity** — ethical hacking, networking, web security, privacy, and defensive security
+* 🌐 **Advanced Web Development** — modern full-stack architectures, APIs, databases, deployment, and performance
+* ☁️ **AI Infrastructure** — self-hosted models, GPU inference, cloud deployments, tunnels, and model APIs
+* 🧩 **System Design** — learning how independent services, databases, APIs, and AI systems fit together
+* 📊 **Reliable AI** — reducing hallucinations, grounding models in real data, and making AI systems more predictable
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🧪 Things I'm Constantly Experimenting With
+
+```text
+LLMs              → Local models • Ollama • Quantization • Context Windows
+AI Agents         → Tool Calling • Memory • APIs • Automation • Workflows
+Cybersecurity     → Networking • Web Security • Privacy • Ethical Hacking
+Development      → Python • TypeScript • JavaScript • Next.js • APIs
+Infrastructure   → Vercel • Supabase • Cloudflare • Self-hosted Services
+Automation        → Telegram • WhatsApp • Webhooks • Databases • APIs
+Content           → YouTube • Gaming • Technology • Building in Public
+```
 
 ---
 
