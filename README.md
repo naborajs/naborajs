@@ -91,8 +91,6 @@ Or just drop a hi on **[msg@naborajs.me](mailto:msg@naborajs.me)**
 </tr>
 </table>
 
-```
-
 ---
 
 ## 🛠️ Tech Stack & Tools
