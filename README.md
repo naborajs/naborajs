@@ -101,18 +101,6 @@ If you're building something interesting, feel free to open an issue, start a di
 </tr>
 </table>
 
----
-
-## 🧪 Things I'm Constantly Experimenting With
-
-```text
-LLMs              → Local models • Ollama • Quantization • Context Windows
-AI Agents         → Tool Calling • Memory • APIs • Automation • Workflows
-Cybersecurity     → Networking • Web Security • Privacy • Ethical Hacking
-Development      → Python • TypeScript • JavaScript • Next.js • APIs
-Infrastructure   → Vercel • Supabase • Cloudflare • Self-hosted Services
-Automation        → Telegram • WhatsApp • Webhooks • Databases • APIs
-Content           → YouTube • Gaming • Technology • Building in Public
 ```
 
 ---
