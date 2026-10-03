@@ -54,18 +54,8 @@ That's the philosophy behind everything I build:
 ## 🤝 Open to Collaborate
 
 I'm always interested in meeting people who like **building things instead of just talking about them**.
-
-I'm especially interested in collaborating on:
-
-* 🤖 AI agents & LLM applications
-* 🧠 Local AI & AI infrastructure
-* 🔐 Cybersecurity & security tooling
-* ⚙️ Automation systems
-* 🌐 Full-stack & real-time applications
-* 🛠️ Open-source projects
-* 🎮 Gaming & creator-focused technology
-
 If you're building something interesting, feel free to open an issue, start a discussion, or just say hi.
+Or just drop a hi on **[msg@naborajs.me](mailto:msg@naborajs.me)**
 
 ---
 
