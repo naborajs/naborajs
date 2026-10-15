@@ -1,61 +1,46 @@
-<h1 align="center">Hi 👋, I'm Naboraj Sarkar</h1>
-
-<h3 align="center">
-Student Developer • AI Agent Builder • LLM Explorer • Automation Engineer • Security Learner • Open Source Contributor
-</h3>
-
-<p align="center">
-I turn curiosity into code — building AI agents, automation systems, web platforms, and security tools while constantly exploring how software, AI, and the internet actually work.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naborajs&label=Profile%20Views&color=blue&style=flat"/>
-</p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Line" width="100%" />
-</div>
+
+# Hi 👋, I'm Naboraj Sarkar
+
+### Student Developer • AI Agent Builder • LLM Explorer • Automation & Security Enthusiast
+
+*I turn curiosity into code — building AI agents, automation systems, web platforms, and security tools while exploring how software, AI, and the internet actually work underneath.*
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Learning.%20Building.%20Breaking.%20Fixing.;Exploring%20LLMs%2C%20Cybersecurity%20%26%20Automation;The%20Future%20is%20Built%2C%20Not%20Waited%20For." alt="Typing introduction" />
+  <a href="https://naborajs.me" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-naborajs.me-00FF41?style=for-the-badge&labelColor=0d1117" alt="Website" />
+  </a>
+  <a href="mailto:msg@naborajs.me">
+    <img src="https://img.shields.io/badge/📫_Email-msg%40naborajs.me-3b82f6?style=for-the-badge&labelColor=0d1117" alt="Email" />
+  </a>
+  <a href="https://github.com/naborajs/who-is-naboraj-sarkar">
+    <img src="https://img.shields.io/badge/📖_Read-My_Full_Story-a855f7?style=for-the-badge&labelColor=0d1117" alt="Full Story" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=naborajs&label=Profile%20Views&color=00FF41&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 </p>
 
-## 🧠 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Line" width="100%" />
 
-I didn't set out to become a developer — I started by trying to automate one boring task. A Python Telegram bot, built out of pure curiosity, eventually turned into full-stack applications, AI agents, automation systems, websites, and open-source projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve+%E2%86%92+Repeat.;Exploring+LLMs%2C+AI+Agents%2C+Cybersecurity+%26+Automation;The+Future+is+Built%2C+Not+Waited+For." alt="Typing SVG" />
+</p>
 
-I'm still a student, still learning, and still breaking things constantly. That's part of the process.
-
-These days, I'm especially interested in **LLMs, AI agents, cybersecurity, automation, web development, and the infrastructure that connects everything together**. I like going beyond simply using a technology — I want to understand how it works underneath.
-
-That's the philosophy behind everything I build:
-
-**Build → Break → Understand → Improve → Repeat.**
-
-* 🤖 Building **AI agents and automation systems** that can reason, use tools, and interact with real-world data.
-* 🧠 Experimenting with **LLMs**, local models, Ollama, model serving, context windows, quantization, and AI coding agents.
-* 🔐 Learning **cybersecurity**, ethical hacking, networking, privacy, and how attackers think so I can build more defensively.
-* 🌐 Building and constantly maintaining **[naborajs.me](https://naborajs.me)** as my personal web ecosystem and digital identity.
-* 💻 Developing with **Python, JavaScript/TypeScript, APIs, databases, Next.js, automation tools, and full-stack systems**.
-* ⚙️ Exploring **AI infrastructure, APIs, cloud deployments, tunnels, self-hosted services, and scalable architectures**.
-* 🛠️ Building projects that combine **AI + automation + web technologies + real-world use cases**.
-* 🎮 Creating gaming content through **NS GAMMING** and learning editing and Content Creation. 
-* 🌱 Learning in public, documenting projects, rebuilding things, and constantly trying something new.
-
-📌 Want the longer story? **[Read more about me →](https://github.com/naborajs/who-is-naboraj-sarkar)**
-
-🌐 **[naborajs.me](https://naborajs.me)** 
-📫 **[msg@naborajs.me](mailto:msg@naborajs.me)**
-
-> 💡 *"I'm not trying to look advanced — I'm trying to actually become capable."*
+</div>
 
 ---
 
-## 🤝 Open to Collaborate
+## 🧠 About Me
 
-I'm always interested in meeting people who like **building things instead of just talking about them**.
-If you're building something interesting, feel free to open an issue, start a discussion, or just say hi.
-Or just drop a hi on **[msg@naborajs.me](mailto:msg@naborajs.me)**
+I didn't set out to become a developer — I started by trying to automate one boring task. A simple Python Telegram bot built out of pure curiosity eventually snowballed into full-stack applications, autonomous AI agents, security scripts, and open-source tools.
+
+I'm a student who learns by building in public and breaking things until they make sense. Rather than just plugging into high-level abstractions, I want to understand **how systems work under the hood** — from how local LLMs manage context and inference to how network traffic routes and how attackers think.
+
+My engineering philosophy is simple:
+> **`Build → Break → Understand → Improve → Repeat.`**
+
+- 🌐 Maintaining **[naborajs.me](https://naborajs.me)** as my personal web ecosystem, digital lab, and portfolio.
+- 🎮 Creating gaming content and sharpening video production through **NS GAMMING**.
+- 🤝 **Open to Collaborate:** Always down to connect with people who prefer **building things over just talking about them**. Open an issue, start a discussion, or drop a message at **[msg@naborajs.me](mailto:msg@naborajs.me)**.
 
 ---
 
@@ -65,27 +50,24 @@ Or just drop a hi on **[msg@naborajs.me](mailto:msg@naborajs.me)**
 <tr>
 <td valign="top" width="50%">
 
-### 🔨 Building & Maintaining
+### 🔨 What I'm Building
 
-* 🌐 **Naboraj Sarkar Web Ecosystem** — constantly developing and maintaining **naborajs.me**, including my projects, experiments, content, and digital presence
-* 🤖 **AI Agent Systems** — experimenting with AI agents that can use tools, APIs, databases, and business data
-* 🧠 **LLM Projects** — experimenting with local and hosted language models, model serving, AI coding agents, and custom AI workflows
-* ⚙️ **Automation Systems** — building tools that connect APIs, databases, messaging platforms, and AI
-* 🔐 **Security Projects** — experimenting with cybersecurity, networking, privacy, and security-focused tooling
-* 🎮 **NS GAMMING** — The art of content creation.
+- 🌐 **Personal Web Ecosystem** — Continuously evolving **[naborajs.me](https://naborajs.me)** with new experiments, tools, and content.
+- 🤖 **AI Agent Systems** — Autonomous agents that reason, call tools, query databases, and interact with real-world APIs.
+- 🧠 **Local & Custom LLM Workflows** — Experimenting with Ollama, model serving, quantization, and AI coding assistants.
+- ⚙️ **Automation Pipelines** — Connecting APIs, messaging platforms, webhooks, and AI into seamless workflows.
+- 🔐 **Security & Privacy Tooling** — Building offensive/defensive scripts, network utilities, and privacy-focused tools.
 
 </td>
 <td valign="top" width="50%">
 
-### 📚 Learning Right Now
+### 📚 What I'm Learning
 
-* 🧠 **LLMs & Generative AI** — model architectures, inference, context management, quantization, and local deployment
-* 🤖 **AI Agents** — tool calling, memory, workflows, autonomous task execution, and agent architecture
-* 🔐 **Cybersecurity** — ethical hacking, networking, web security, privacy, and defensive security
-* 🌐 **Advanced Web Development** — modern full-stack architectures, APIs, databases, deployment, and performance
-* ☁️ **AI Infrastructure** — self-hosted models, GPU inference, cloud deployments, tunnels, and model APIs
-* 🧩 **System Design** — learning how independent services, databases, APIs, and AI systems fit together
-* 📊 **Reliable AI** — reducing hallucinations, grounding models in real data, and making AI systems more predictable
+- 🧠 **LLMs & Inference** — Model architectures, context window management, RAG, and grounding AI to reduce hallucinations.
+- 🤖 **Agentic Architectures** — Multi-agent orchestration, memory systems, and reliable tool execution.
+- 🔐 **Cybersecurity** — Ethical hacking, network security, privacy protocols, and defensive engineering.
+- ☁️ **AI & Cloud Infrastructure** — Self-hosted services, GPU inference, tunnels, and scalable backend design.
+- 🧩 **System Design** — Architecting resilient full-stack applications where APIs, databases, and AI services fit together cleanly.
 
 </td>
 </tr>
@@ -95,107 +77,112 @@ Or just drop a hi on **[msg@naborajs.me](mailto:msg@naborajs.me)**
 
 ## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
+#### 💻 Languages, Frameworks & Infrastructure
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,bash,nextjs,react,nodejs,tailwind,linux,docker,git,githubactions&perline=6" alt="Tech Stack" />
 </p>
+
+#### 🧠 AI, Security & Workflow Ecosystem
+<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-Tool_Calling_%26_RAG-00FF41?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Tor_&_Privacy-Network_Security-7D4698?style=flat-square&logo=torproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-Mobile_Linux-000000?style=flat-square&logo=termux&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-Automation_&_Bots-3b82f6?style=flat-square" />
+</p>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [birthday-bloom](https://github.com/naborajs/birthday-bloom) | Open-source animated birthday website generator — cinematic visuals, zero coding required for users | TypeScript |
-| [Termux-Tor-IP-Rotator (Ghost Engine)](https://github.com/naborajs/Termux-Tor-IP-Rotator) | Cross-platform Tor IP rotation toolkit with auto-rotation & stealth mode | Shell |
+| Project | Description | Tech | Repo Stats |
+| :--- | :--- | :---: | :---: |
+| 🌸 **[birthday-bloom](https://github.com/naborajs/birthday-bloom)** | Open-source animated birthday website generator with cinematic visuals — zero coding required for users. | `TypeScript` `Web` | ![Stars](https://img.shields.io/github/stars/naborajs/birthday-bloom?style=flat-square&color=00FF41&labelColor=0d1117) |
+| 👻 **[Termux-Tor-IP-Rotator](https://github.com/naborajs/Termux-Tor-IP-Rotator)** | **Ghost Engine:** Cross-platform Tor IP rotation toolkit featuring automated rotation intervals and stealth mode. | `Shell` `Tor` `Security` | ![Stars](https://img.shields.io/github/stars/naborajs/Termux-Tor-IP-Rotator?style=flat-square&color=00FF41&labelColor=0d1117) |
+| 🪪 **[who-is-naboraj-sarkar](https://github.com/naborajs/who-is-naboraj-sarkar)** | A deeper dive into my background, journey into tech, philosophy, and everything I'm working toward. | `Markdown` `Story` | ![Stars](https://img.shields.io/github/stars/naborajs/who-is-naboraj-sarkar?style=flat-square&color=00FF41&labelColor=0d1117) |
 
 ---
 
-<!-- ## 🐍 Contribution Activity
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=naborajs&theme=holi&hide_border=true&v=2" alt="GitHub Streak" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naborajs/naborajs/output/github-contribution-grid-snake.svg" />
-</p>
--->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naborajs&theme=holi&animation=load&name=NABORAJ+SARKAR" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naborajs&theme=holi&animation=load" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naborajs&theme=holi&animation=load" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naborajs&theme=holi&animation=load" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naborajs&theme=holi&animation=load&utcOffset=0" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naborajs&theme=holi&hide_border=true&v=2" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naborajs&theme=holi&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=holi&radius=10" alt="" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naborajs&theme=holi&animation=load&name=NABORAJ+SARKAR" alt="Profile Details" />
 </p>
 
-## 🧊 3D Contributions
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naborajs&theme=holi&animation=load" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naborajs&theme=holi&animation=load&utcOffset=5.5" alt="Productive Time (IST)" />
+</p>
+
+<details>
+<summary><b>⚡ Click to expand Language Breakdown, Trophies & 3D Contribution Graph</b></summary>
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naborajs/naborajs/main/profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naborajs&theme=holi&animation=load" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naborajs&theme=holi&animation=load" alt="Most Commit Language" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naborajs&theme=holi&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=naborajs&theme=holi&radius=10" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naborajs/naborajs/main/profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D Contribution Graph" width="90%" />
+</p>
+
+</details>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/naborajs" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="42" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://twitter.com/NSGAMMING699" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="42" alt="Twitter / X"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.youtube.com/@Nishant_sarkar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="42" alt="YouTube"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://discord.gg/WP3YkTkcJE" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="42" alt="Discord"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/naboraj-sarkar" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="42" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-
+  <a href="https://twitter.com/NSGAMMING699" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" alt="Twitter / X"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Nishant_sarkar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" alt="YouTube"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/WP3YkTkcJE" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" alt="Discord"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/naborajs" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/918900653250?text=Hi%20Naboraj%2C%20I%20found%20you%20via%20GitHub." target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="42" alt="WhatsApp"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" alt="WhatsApp"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-✨ "I'm not trying to look advanced — I'm trying to actually become capable." ✨
-</p>
-
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
 
+> 💡 *"I'm not trying to look advanced — I'm trying to actually become capable."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+
+</div>
