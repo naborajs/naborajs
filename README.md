@@ -46,13 +46,14 @@ My philosophy is simple:
 
 ## 🚀 Featured Projects
 
-| Project | Description | Focus & Stack | Stars |
+| Project | Description | Tech Stack | Stars |
 | :--- | :--- | :---: | :---: |
-| 🤖 **[Self-Hosted-AI-Assistant](https://github.com/naborajs/Self-Hosted-AI-Assistant)** | Self-hosted AI agent powered by local LLMs (Ollama) with built-in memory, tool use, and seamless integration for WhatsApp and Telegram. | `Ollama` `AI Agents` `WhatsApp/TG` | ![Stars](https://img.shields.io/github/stars/naborajs/Self-Hosted-AI-Assistant?style=flat-square&color=00FF41&labelColor=0d1117) |
-| 🧊 **[personal-3d-portfolio-template-V1](https://github.com/naborajs/personal-3d-portfolio-template-V1)** | Interactive 3D developer portfolio template designed for zero-friction setup, fully customizable using `.env` variables. | `3D Web` `Frontend` `ENV Config` | ![Stars](https://img.shields.io/github/stars/naborajs/personal-3d-portfolio-template-V1?style=flat-square&color=00FF41&labelColor=0d1117) |
-| 👻 **[Termux-Tor-IP-Rotator](https://github.com/naborajs/Termux-Tor-IP-Rotator)** | **Ghost Engine:** Cross-platform Tor IP rotation toolkit with automated intervals and stealth networking mode. | `Shell` `Tor` `Privacy` | ![Stars](https://img.shields.io/github/stars/naborajs/Termux-Tor-IP-Rotator?style=flat-square&color=00FF41&labelColor=0d1117) |
-| 🛡️ **[NS-X-DDOS](https://github.com/naborajs/NS-X-DDOS)** | Network stress-testing and traffic simulation utility built for studying server resilience and cybersecurity defense. | `Security` `Networking` `CLI` | ![Stars](https://img.shields.io/github/stars/naborajs/NS-X-DDOS?style=flat-square&color=00FF41&labelColor=0d1117) |
-| 🌸 **[birthday-bloom](https://github.com/naborajs/birthday-bloom)** | Open-source animated birthday website generator with cinematic visuals that requires zero coding from users. | `TypeScript` `UI/UX` `Web` | ![Stars](https://img.shields.io/github/stars/naborajs/birthday-bloom?style=flat-square&color=00FF41&labelColor=0d1117) |
+| ☁️ **[NS Cloud Drive](https://github.com/naborajs/CloudDrive)** | A Windows virtual drive that brings cloud storage into File Explorer with on-demand access and intelligent caching. **v1.0.0 released — v1.1+ in development.** | `Windows` `PowerShell` `rclone` `WinFsp` | ![Stars](https://img.shields.io/github/stars/naborajs/CloudDrive?style=flat-square&color=00FF41&labelColor=0d1117) |
+| 🤖 **[Self-Hosted-AI-Assistant](https://github.com/naborajs/Self-Hosted-AI-Assistant)** | A self-hosted AI assistant powered by local LLMs, featuring memory, tool use, and integrations for WhatsApp and Telegram. | `Ollama` `AI Agents` `WhatsApp/TG` | ![Stars](https://img.shields.io/github/stars/naborajs/Self-Hosted-AI-Assistant?style=flat-square&color=00FF41&labelColor=0d1117) |
+| 🧊 **[personal-3d-portfolio-template-V1](https://github.com/naborajs/personal-3d-portfolio-template-V1)** | An interactive 3D portfolio template with customizable configuration and a streamlined setup experience. | `3D Web` `Frontend` `TypeScript` | ![Stars](https://img.shields.io/github/stars/naborajs/personal-3d-portfolio-template-V1?style=flat-square&color=00FF41&labelColor=0d1117) |
+| 👻 **[Termux-Tor-IP-Rotator](https://github.com/naborajs/Termux-Tor-IP-Rotator)** | A Tor IP rotation utility for privacy experimentation and network configuration. | `Shell` `Tor` `Privacy` | ![Stars](https://img.shields.io/github/stars/naborajs/Termux-Tor-IP-Rotator?style=flat-square&color=00FF41&labelColor=0d1117) |
+| 🛡️ **[NS-X-DDOS](https://github.com/naborajs/NS-X-DDOS)** | A network traffic simulation and stress-testing utility for authorized security testing and server resilience research. | `Security` `Networking` `CLI` | ![Stars](https://img.shields.io/github/stars/naborajs/NS-X-DDOS?style=flat-square&color=00FF41&labelColor=0d1117) |
+| 🌸 **[birthday-bloom](https://github.com/naborajs/birthday-bloom)** | An animated birthday website generator featuring expressive visuals and a no-code customization experience. | `TypeScript` `UI/UX` `Web` | ![Stars](https://img.shields.io/github/stars/naborajs/birthday-bloom?style=flat-square&color=00FF41&labelColor=0d1117) |
 
 ---
 
