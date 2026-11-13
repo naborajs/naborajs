@@ -57,37 +57,6 @@ My philosophy is simple:
 
 ---
 
-## 🎯 Currently Building & Learning
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🔨 What I'm Building
-
-- 🌐 **Personal Web Ecosystem:** Continuously evolving **[naborajs.me](https://naborajs.me)** with new experiments, projects, and content.
-- 🤖 **Self-Hosted AI Agents:** Connecting local LLMs (Ollama) with persistent memory, tools, and messaging apps like WhatsApp and Telegram.
-- 🎨 **Zero-Config Web Templates:** Building 3D portfolios and interactive generators controllable via simple environment variables.
-- ⚙️ **Automation Pipelines:** Linking APIs, databases, webhooks, and bots to handle real-world workflows automatically.
-- 🔐 **Security & Network Tools:** Writing scripts for IP privacy, traffic simulation, and defensive testing.
-
-</td>
-<td valign="top" width="50%">
-
-### 📚 What I'm Learning
-
-- 🧠 **LLMs & Local Inference:** Model architectures, context windows, quantization, RAG, and reducing hallucinations.
-- 🤖 **Agentic Workflows:** Tool calling, long-term memory architectures, and autonomous task execution.
-- 🔐 **Cybersecurity:** Ethical hacking, network protocols, traffic analysis, and building resilient systems.
-- ☁️ **AI & Cloud Infrastructure:** Self-hosted servers, tunnels, GPU inference, and scalable backend design.
-- 🧩 **System Design:** Connecting independent services, databases, APIs, and AI models into clean architectures.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
